@@ -9,6 +9,7 @@ const nextConfig = {
             ? "http://127.0.0.1:8000/api/:path*"
             : "/api/",
       },
+
       {
         source: "/docs",
         destination:
